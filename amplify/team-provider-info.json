@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactapiad-elyse-67dad-authRole",
+      "UnauthRoleArn": "arn:aws:iam::554591433862:role/amplify-reactapiad-elyse-67dad-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::554591433862:role/amplify-reactapiad-elyse-67dad-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-reactapiad-elyse-67dad-deployment",
+      "UnauthRoleName": "amplify-reactapiad-elyse-67dad-unauthRole",
+      "StackName": "amplify-reactapiad-elyse-67dad",
+      "StackId": "arn:aws:cloudformation:us-east-2:554591433862:stack/amplify-reactapiad-elyse-67dad/779b4ef0-fea5-11ee-bf03-0676f0a1b0b7",
+      "AmplifyAppId": "d82qrjrzs34lh"
+    }
+  }
+}
